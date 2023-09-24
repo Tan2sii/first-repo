@@ -3,6 +3,6 @@
 This marks my first day on GitHub. Nice to meet everybody.
 
 
-## Subheader
+## Get to know me.
 
 My name is Tan. I am looking for Hybrid work.
