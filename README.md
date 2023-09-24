@@ -10,3 +10,4 @@ My name is Tan. I am looking for Hybrid work.
 
 1. Open index.html in your browser.
 2. Have fun.
+3. Bye.
